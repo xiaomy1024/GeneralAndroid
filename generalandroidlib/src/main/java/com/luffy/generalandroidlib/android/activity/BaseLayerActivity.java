@@ -22,7 +22,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.luffy.dialoglib.dialog.loadingDialog.LoadingDialog;
+import com.luffy.generaldialoglib.dialog.loadingDialog.LoadingDialog;
 import com.luffy.generalandroidlib.R;
 import com.luffy.generalandroidlib.android.application.BaseLayerApplication;
 import com.luffy.generalandroidlib.android.callback.basetitle.IBaseLayerTitle;
